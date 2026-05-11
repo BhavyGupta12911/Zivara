@@ -110,19 +110,6 @@ flutter run
 
 ---
 
-# 📸 Screenshots
-
-*Add screenshots of your application here.*
-
-### Example Screens:
-
-* Home Screen
-* Crisis Mode Screen
-* Safe Haven Screen
-* SOS Feature
-
----
-
 # 🎯 Purpose of the Project
 
 The goal of **Zivara** is to provide users with simple and accessible tools that help them manage:
